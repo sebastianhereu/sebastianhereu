@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian Hereu</h1>
-<h3 align="center">CS at Columbia University (B.S.) '23. M.S. in CS at Columbia University '24. Incoming SWE intern at Google</h3>
+<h3 align="center">CS at Columbia University '23. M.S. in CS at Columbia University '24. Incoming SWE intern at Google</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianhereu&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianhereu" /> </p>
 
-- ⚡ Fun fact **I love to 🏌️!**
+- ⚡ Fun fact: **I love to 🏌️!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
