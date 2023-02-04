@@ -4,7 +4,7 @@
 <p align="center"> M.S. in CS at Columbia University SEAS '24.  </h2>
 <h2 align="center"> Incoming SWE intern at <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/> </h2> -->
 
-<p align="center"> Hi, I'm currently an undergraduate pursuing a B.S. in CS at Columbia Univesity. Upon graduating in 2023, I will puruse a M.S. in CS from Columbia and will graduate in 2024. This summer, I'll be a SWE intern at Google. In my free time, I enjoy playing 🏌️ and hanging around NYC!
+<p align="center"> Hi, I'm currently an undergraduate pursuing a B.S. in CS at Columbia University. Upon graduating in 2023, I will puruse a M.S. in CS from Columbia and expect to graduate in 2024. This summer, I'll be a SWE intern at Google. In my free time, I enjoy playing 🏌️ and hanging around NYC!
 
 
 </p>
